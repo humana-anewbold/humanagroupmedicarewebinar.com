@@ -1,41 +1,41 @@
 @font-face {
     font-family: FS Humana;
-    src: url(https://www.humana.com/dist/hcom/static/fonts/fs-humana.woff2) format("woff2"), url(https://www.humana.com/dist/hcom/static/fonts/fs-humana.woff) format("woff"), url(https://www.humana.com/dist/hcom/static/fonts/fs-humana.ttf) format("truetype");
+    src: url('fonts/fs-humana.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
-    font-display:swap
+    font-display: swap;
 }
 
 @font-face {
     font-family: FS Humana;
-    src: url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-bold.woff2) format("woff2"), url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-bold.woff) format("woff"), url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-bold.ttf) format("truetype");
+    src: url('fonts/fs-humana-bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
-    font-display:swap
+    font-display: swap;
 }
 
 @font-face {
     font-family: FS Humana;
-    src: url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-italic.woff2) format("woff2"), url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-italic.woff) format("woff"), url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-italic.ttf) format("truetype");
+    src: url('fonts/fs-humana-italic.woff2') format('woff2');
     font-weight: 400;
     font-style: italic;
-    font-display:swap
+    font-display: swap;
 }
 
 @font-face {
     font-family: FS Humana;
-    src: url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-bold-italic.woff2) format("woff2"), url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-bold-italic.woff) format("woff"), url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-bold-italic.ttf) format("truetype");
+    src: url('fonts/fs-humana-bold-italic.woff2') format('woff2');
     font-weight: 700;
     font-style: italic;
-    font-display:swap
+    font-display: swap;
 }
 
 @font-face {
     font-family: FS Humana;
-    src: url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-light.woff2) format("woff2"), url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-light.woff) format("woff"), url(https://www.humana.com/dist/hcom/static/fonts/fs-humana-light.ttf) format("truetype");
+    src: url('fonts/fs-humana-light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
-    font-display:swap
+    font-display: swap;
 }
 
 body {
