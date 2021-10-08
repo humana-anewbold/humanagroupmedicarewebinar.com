@@ -43,8 +43,8 @@ body {
 }
 
 main {
-	width: 50em;
-	padding: 2em 0;
+	max-width: 50em;
+	padding: 2em 1em;
 	margin: auto;
 	border: 0px solid red;
 }
