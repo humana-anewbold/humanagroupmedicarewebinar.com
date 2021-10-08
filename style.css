@@ -40,6 +40,8 @@
 
 body {
 	font-family: "FS Humana";
+	background: #fff;
+	color: #414042;
 }
 
 main {
@@ -56,4 +58,17 @@ main {
 h1 {
 	color: #4a7729;
 	font-weight: normal;
+}
+
+.notice {
+	font-size: 150%;
+	background: #7b3b80;
+	color: #fff;
+	padding: .5em;
+	border-radius: .2em;
+}
+
+.event {
+	border-bottom: 1px dotted #555;
+	padding-bottom: 1em;
 }
